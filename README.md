@@ -44,7 +44,7 @@
 git clone https://github.com/Kankana1012/Fake-News-Detection-Using-GNNs.git cd fake-news-gnn
 
 2. Install required packages
-pip install pandas numpy matplotlib scikit-learn torch torch-geometric 
+-  pip install pandas numpy matplotlib scikit-learn torch torch-geometric 
 
 ---
 
