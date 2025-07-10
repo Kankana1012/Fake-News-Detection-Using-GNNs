@@ -1,14 +1,5 @@
 # Fake-News-Detection-Using-GNNs
 📝 This project focuses on detecting fake news using Graph Neural Networks (GNNs) alongside traditional NLP and deep learning models. It compares the performance of ML, CNN, RNN, LSTM, and GNNs to improve classification accuracy.
-# 📰 Fake News Detection Using GNNs
-
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
-[![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-Deep%20Graph%20Library-red)](https://pytorch-geometric.readthedocs.io)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange.svg)](https://www.tensorflow.org/)
-[![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)](https://github.com/your-username/your-repo)
-[![Forks](https://img.shields.io/github/forks/your-username/your-repo?style=social)](https://github.com/your-username/your-repo)
 
 ---
 
@@ -48,17 +39,35 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Python 3.8+
-- Jupyter Notebook
-- PyTorch / TensorFlow / Scikit-learn
+1. Clone the repository
 
-### Installation
+git clone https://github.com/Kankana1012/Fake-News-Detection-Using-GNNs.git cd fake-news-gnn
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/fake-news-gnn.git
-cd fake-news-gnn
+2. Install required packages
+pip install pandas numpy matplotlib scikit-learn torch torch-geometric 
 
-# Install required packages
-pip install -r requirements.txt
+---
+
+## 🛠️ Tech Stack
+
+| Category            | Tools & Libraries |
+|---------------------|-------------------|
+| 💻 Language        | ![Python](https://img.shields.io/badge/Python-3.8+-blue) |
+| 📒 Notebook        | ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) |
+| 📊 ML Libraries    | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-yellow?logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch) |
+| 🔁 GNN Frameworks  | ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-graph--learning-red) |
+| 🧹 Data Tools      | ![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-blue) ![NumPy](https://img.shields.io/badge/NumPy-numeric-blueviolet) |
+| 📈 Visualization   | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Graphs-green) |
+
+---
+
+## 📬 Contact
+
+**Developer:** Kankana Chakraborty  
+**Email:** lushichakraborty@gmail.com  
+**GitHub:** [Kankana1012](https://github.com/Kankana1012)
+
+---
+
+> ⭐ *Feel free to fork, star to the project!*
+
